@@ -4,7 +4,7 @@ This is a very simple extension, it automatically organizes your downloads by da
 
 **Before**: Downloads/example.file
 
-**After**: Downloads/**2018/10**/example.file
+**After**: Downloads/**2018/10/10**/example.file
 
 
 # Installation
